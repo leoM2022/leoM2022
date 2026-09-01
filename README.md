@@ -1,5 +1,5 @@
 <div align="center">
-  #¡Hola! Soy Leandro Mamani 👋
+  ###¡Hola! Soy Leandro Mamani 👋
   
   ### 🎓 Estudiante de Ingeniería Informática
 </div>
