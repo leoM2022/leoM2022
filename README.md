@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Leandro Mamani 👋</h1>  
-  ### 🎓 Estudiante de Ingeniería Informática
+  <h3>🎓 Estudiante de Ingeniería Informática</h3>
 </div>
 
 <br/>
