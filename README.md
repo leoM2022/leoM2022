@@ -1,46 +1,47 @@
 <div align="center">
 
-<!-- BANNER DINÁMICO CYBER/TERMINAL -->
+<!-- BANNER DINÁMICO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=LEANDRO%20MAMANI&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=38bdf8" width="100%" alt="Header Leandro Mamani" />
 
-<!-- ANIMATED TYPING HEADER -->
+<!-- ANIMACIÓN DE TEXTO -->
 <a href="https://github.com/leoM2022">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=880&lines=Leandro+Mamani+%E2%80%94+Software+Engineering+Student;Backend+Dev+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Big+Data+%E2%80%A2+Linux+Power+User+%E2%80%A2+Open+Source;Handball+Athlete+%E2%80%A2+Football+Fan+%E2%80%A2+Gamer" alt="Typing Leandro Mamani">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=880&lines=Leandro+Mamani+%E2%80%94+Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollo+Backend+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Explorando+Big+Data+%E2%80%A2+Entusiasta+de+Linux+y+Open+Source;Deportista+%E2%80%A2+Handball+%E2%80%A2+F%C3%BAtbol+%E2%80%A2+Gaming" alt="Presentación animada">
 </a>
 
 <br><br>
 
-<!-- BADGES DE PERFIL Y CONTADOR FUNCIONAL -->
+<!-- BADGES DE PERFIL -->
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Linux_x86__64-22c55e?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-38bdf8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/Location-Jujuy,_Argentina-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleoM2022&count_bg=%2338BDF8&title_bg=%2318181B&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false" alt="Views Counter" />
+  <img src="https://img.shields.io/badge/Sistema-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Estado-En_Formación_Activa-38bdf8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Estado">
+  <img src="https://img.shields.io/badge/Ubicación-Jujuy,_Argentina-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación">
+  <img src="https://img.shields.io/badge/Perfil-Estudiante_Ingeniería-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Perfil">
 </p>
 
 </div>
 
 ---
 
-## ⚡ `$ whoami --extended`
+## 👨‍💻 Sobre mí
 
-<table border="1" cellpadding="10" bgcolor="#121217" width="100%">
+<table border="1" cellpadding="12" bgcolor="#121217" width="100%">
   <thead>
     <tr>
-      <th align="left"><code>leoM2022@linux-machine:~$ ./profile_info.sh</code></th>
+      <th align="left"><code>📌 Perfil Personal & Académico</code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <p>👋 <b>¡Hola Mundo!</b> Soy Leandro Mamani, estudiante de <b>Ingeniería Informática</b> en <b>San Salvador de Jujuy, Argentina</b> 🇦🇷.</p>
-        <p>Mi objetivo principal es dominar la arquitectura backend moderna y la gestión de grandes volúmenes de datos mediante herramientas de código abierto.</p>
+        <p>👋 <b>¡Hola!</b> Soy Leandro Mamani, estudiante de <b>Ingeniería Informática</b> en <b>San Salvador de Jujuy, Argentina</b> 🇦🇷.</p>
+        <p>Me apasiona el desarrollo de software orientado al backend, la gestión eficiente de datos y la filosofía del código abierto.</p>
         <ul>
-          <li>🎯 <b>Foco técnico:</b> Arquitectura backend con <b>Java & Spring Boot</b>, desarrollo de scripts y análisis con <b>Python</b>.</li>
-          <li>📊 <b>Áreas de expansión:</b> Adentrándome en el procesamiento y análisis de <b>Big Data</b>.</li>
-          <li>🐧 <b>Entorno y Filosofía:</b> Promotor activo del <b>Software Libre</b> y usuario diario de distribuciones <b>Linux</b>.</li>
-          <li>⚽ <b>Vida deportiva:</b> Jugador de handball en <b>CDA</b> y <b>LMA</b>, y apasionado por el fútbol.</li>
-          <li>🎮 <b>Relax & Gaming:</b> En mis ratos libres disfruto de sesiones tácticas en <b>CS2</b> y supervivencia en <b>Minecraft</b>.</li>
+          <li>🎯 <b>Enfoque técnico:</b> Desarrollo de software con <b>Java</b> y <b>Spring Boot</b>, además de scripting y análisis con <b>Python</b>.</li>
+          <li>📊 <b>Nuevos horizontes:</b> Profundizando en conceptos de <b>Big Data</b> y procesamiento de datos.</li>
+          <li>🐧 <b>Entorno y herramientas:</b> Usuario cotidiano de <b>Linux</b> y promotor del <b>Software Libre</b>.</li>
+          <li>💼 <b>Productividad:</b> Manejo avanzado de la suite de ofimática (Excel, Word, PowerPoint).</li>
+          <li>⚽ <b>Deportes:</b> Jugador de handball federado en <b>CDA</b> y <b>LMA</b>, y fanático del fútbol.</li>
+          <li>🎮 <b>Pasatiempos:</b> En mis ratos libres disfruto de <b>Minecraft</b> y <b>CS2</b>.</li>
         </ul>
       </td>
     </tr>
@@ -51,54 +52,54 @@
 
 <div align="center">
 
-## 💻 `$ cat tech-stack.yaml`
+## 🛠️ Tecnologías y Herramientas
 
 <table border="1" cellpadding="14" bgcolor="#121217" width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>leoM2022:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>🚀 Stack Tecnológico</code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ✦ languages_core:</code><br><br>
+      <td width="50%" valign="top"><b>✦ Lenguajes principales:</b><br><br>
         <img src="https://skillicons.dev/icons?i=java,python,bash,c" alt="Java, Python, Bash, C"><br><br>
-        <sub><code>Java SE/EE · Python 3 · Bash Scripting · Fundamentos C</code></sub>
+        <sub><code>Java · Python · Bash · C</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ⚙ backend_architecture:</code><br><br>
+      <td width="50%" valign="top"><b>⚙️ Backend & Frameworks:</b><br><br>
         <img src="https://skillicons.dev/icons?i=spring,maven,gradle" alt="Spring Boot, Maven, Gradle"><br><br>
-        <sub><code>Spring Boot · Spring Data JPA · Maven · REST APIs</code></sub>
+        <sub><code>Spring Boot · Spring Data JPA · Maven · Gradle</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ▣ databases_storage:</code><br><br>
+      <td valign="top"><b>▣ Bases de datos:</b><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite"><br><br>
-        <sub><code>PostgreSQL · MySQL · SQLite · Diseño Relacional & SQL</code></sub>
+        <sub><code>PostgreSQL · MySQL · SQLite · Modelado Relacional</code></sub>
       </td>
-      <td valign="top"><code>├─ 📊 bigdata_ecosystem:</code><br><br>
-        <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark">
+      <td valign="top"><b>📊 Big Data & Análisis (en estudio):</b><br><br>
         <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka">
+        <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark">
         <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"><br><br>
-        <sub><code>Procesamiento de Datos · Apache Kafka · Spark & Pandas (en estudio)</code></sub>
+        <sub><code>Apache Kafka · Apache Spark · Pandas</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ 🐧 environment_devops_vcs:</code><br><br>
+      <td valign="top"><b>🐧 Entorno & Control de versiones:</b><br><br>
         <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github" alt="Linux, Ubuntu, Git, GitHub"><br><br>
-        <sub><code>Linux OS · Terminal Workflow · Git · GitHub · FOSS</code></sub>
+        <sub><code>Linux OS · Git · GitHub · Flujos de trabajo FOSS</code></sub>
       </td>
-      <td valign="top"><code>╰─ 🛠️ tools_office_productivity:</code><br><br>
+      <td valign="top"><b>📄 IDEs & Productividad:</b><br><br>
         <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code">
         <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Excel">
         <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="48" alt="Word">
         <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="48" alt="PowerPoint"><br><br>
-        <sub><code>IntelliJ IDEA · VS Code · Suite Microsoft Office Completa</code></sub>
+        <sub><code>IntelliJ IDEA · VS Code · Suite Microsoft Office</code></sub>
       </td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: continuous_learning&nbsp;&nbsp;·&nbsp;&nbsp;architecture: clean_code</code></td>
+      <td colspan="2"><code>Formación continua · Buenas prácticas · Código limpio</code></td>
     </tr>
   </tfoot>
 </table>
@@ -107,7 +108,7 @@
 
 ---
 
-## 📈 `$ neofetch --system-metrics`
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leoM2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -121,12 +122,47 @@
 
 ---
 
-## 🏆 `$ cat current_milestones.md`
+## 🎯 Objetivos Actuales
 
 ```markdown
-- [x] Iniciar estudios universitarios en Ingeniería Informática.
-- [x] Dominar lógica de programación orientada a objetos (POO) en Java y Python.
-- [x] Migrar el flujo de trabajo diario al ecosistema Linux & Terminal.
-- [ ] Construir y desplegar API REST robusta con Spring Boot y PostgreSQL.
-- [ ] Desarrollar pipeline inicial de ingestión de datos (Big Data).
-- [ ] Contribuir formalmente a proyectos Open Source / Software Libre.
+- [x] Iniciar la carrera de Ingeniería Informática.
+- [x] Consolidar bases de programación orientada a objetos en Java y Python.
+- [x] Adoptar Linux como entorno de desarrollo principal.
+- [ ] Desarrollar y desplegar soluciones completas con Spring Boot y PostgreSQL.      
+- [ ] Implementar proyectos prácticos de procesamiento en Big Data.
+- [ ] Realizar aportes a repositorios de código abierto (Open Source).
+---
+
+## 📬 Conecta conmigo
+
+<div align="center">
+
+<table border="1" cellpadding="12" bgcolor="#121217" width="100%">
+  <thead>
+    <tr>
+      <th align="left"><code>📡 Canales de Contacto</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://www.linkedin.com/in/leandro-mamani-39832b374" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>&nbsp;&nbsp;
+        <a href="mailto:leandromamani20222@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>&nbsp;&nbsp;
+        <a href="https://github.com/leoM2022">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <br><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+```bash
+leoM2022@san-salvador-de-jujuy:~$ echo "Abierto a networking, proyectos colaborativos y nuevas oportunidades."
