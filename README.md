@@ -1,38 +1,31 @@
 <div align="center">
-  <h1>¡Hola! Soy Leandro Mamani 👋</h1>  
-  <h3>🎓 Estudiante de Ingeniería Informática</h3>
+
+<!-- ANIMATED HEADER TYPING -->
+<a href="https://github.com/leoM2022">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Leandro+Mamani+%E2%80%94+Software+Engineering+Student;Backend+Development+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Big+Data+%E2%80%A2+Linux+%E2%80%A2+Open+Source;Handball+Player+%E2%80%A2+Football+Enthusiast" alt="Banner animado de Leandro Mamani">
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=leoM2022&style=flat&color=38bdf8&label=profile+views" alt="profile views">
+
 </div>
 
-<br/>
-
-### 👨‍💻 Sobre mí
-
-- 📚 Cursando la carrera de **Ingeniería Informática**.
-- 💻 Enfocado en el desarrollo con **Java** y **Python**.
-- 🎮 En mis tiempos libres disfruto jugar **Minecraft** y **CS2**.
-- 🤾‍♂️ Apasionado por los deportes: juego handball en **CDA** y **LMA**, y me encanta el fútbol.
-
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## `$ whoami`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### 📫 Conecta conmigo
-
-<p align="left">
-  <a href="www.linkedin.com/in/leandro-mamani-39832b374" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:leandromamani20222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+```yaml
+user: "Leandro Mamani"
+role: "Estudiante de Ingeniería Informática"
+location: "San Salvador de Jujuy, Argentina"
+focus:
+  - "Desarrollo Backend con Java & Spring Boot"
+  - "Scripting y automatización con Python"
+  - "Exploración en Big Data & Ecosistema Open Source"
+hobbies:
+  - "Handball (CDA / LMA)"
+  - "Fútbol"
+  - "Gaming (Minecraft & CS2)"
+os_preference: "Linux"
+status: "Construyendo proyectos y aprendiendo activamente"
