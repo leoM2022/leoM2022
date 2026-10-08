@@ -77,9 +77,9 @@
         <sub><code>PostgreSQL · MySQL · SQLite · Modelado Relacional</code></sub>
       </td>
       <td valign="top"><b>📊 Big Data & Análisis (en estudio):</b><br><br>
-        <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka">
-        <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark">
-        <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"><br><br>
+        <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka">&nbsp;
+        <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48" alt="Apache Spark">&nbsp;
+        <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas"><br><br>
         <sub><code>Apache Kafka · Apache Spark · Pandas</code></sub>
       </td>
     </tr>
@@ -89,10 +89,10 @@
         <sub><code>Linux OS · Git · GitHub · Flujos de trabajo FOSS</code></sub>
       </td>
       <td valign="top"><b>📄 IDEs & Productividad:</b><br><br>
-        <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code">
-        <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Excel">
-        <img src="https://cdn.simpleicons.org/microsoftword/2B579A" height="48" alt="Word">
-        <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" height="48" alt="PowerPoint"><br><br>
+        <img src="https://skillicons.dev/icons?i=idea,vscode" alt="IntelliJ IDEA, VS Code">&nbsp;
+        <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="48" alt="Word">&nbsp;
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="48" alt="Excel">&nbsp;
+        <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="48" alt="PowerPoint"><br><br>
         <sub><code>IntelliJ IDEA · VS Code · Suite Microsoft Office</code></sub>
       </td>
     </tr>
@@ -128,16 +128,18 @@
 - [x] Iniciar la carrera de Ingeniería Informática.
 - [x] Consolidar bases de programación orientada a objetos en Java y Python.
 - [x] Adoptar Linux como entorno de desarrollo principal.
-- [ ] Desarrollar y desplegar soluciones completas con Spring Boot y PostgreSQL.      
+- [ ] Desarrollar y desplegar soluciones completas con Spring Boot y PostgreSQL.
 - [ ] Implementar proyectos prácticos de procesamiento en Big Data.
 - [ ] Realizar aportes a repositorios de código abierto (Open Source).
+```
+
 ---
 
 ## 📬 Conecta conmigo
 
 <div align="center">
 
-<table border="1" cellpadding="12" bgcolor="#121217" width="100%">
+<table border="1" cellpadding="14" bgcolor="#121217" width="100%">
   <thead>
     <tr>
       <th align="left"><code>📡 Canales de Contacto</code></th>
@@ -166,3 +168,8 @@
 
 ```bash
 leoM2022@san-salvador-de-jujuy:~$ echo "Abierto a networking, proyectos colaborativos y nuevas oportunidades."
+```
+
+<sub>Diseñado con dedicación desde <b>San Salvador de Jujuy, Argentina</b> · @leoM2022</sub>
+
+</div>
